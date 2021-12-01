@@ -30,7 +30,7 @@
 
 .pricing-table .card:nth-child(1) {
   background: #7f7fd5;
-  background: -webkit-gradient(linear, right top, left top, from(#076c93), color-stop(#86a8e7), to(#7f7fd5));
+  background: -webkit-gradient(linear, right top, left top, from(#ffffff), color-stop(#ffffff), to(#ffffff));
   background: #03bcd8;
 }
 
