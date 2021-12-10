@@ -1,1 +1,100 @@
+.btn-toggle, .btn-toggle2, .btn-toggle3, .btn-toggle4 { 
+width: 100%;  
+border-collapse: collapse;  
+border-width: 1px;  
+border-color: #ececec;  
+border-style: solid;  
+font-size: 1.5rem;  
+user-select: none;  
+margin: auto;  
+padding: 10px; 
+background-color: #F9F9F9; 
+}
 
+#configP, #descHardware, #dataSheet, #garantiaProduct {
+width: 100%;
+padding: 25px;
+font-size: 1.2rem; 
+}
+
+table.GeneratedTable {  
+width: 50%;
+background-color: #ffffff;
+border-collapse: collapse;
+border-width: 1px;
+border-color: #000000;
+border-style: solid;
+color: #000000; 
+}
+
+table.GeneratedTable td, table.GeneratedTable th {
+border-width: 1px;
+border-color: #000000;
+border-style: solid;
+padding: 2px; 
+}
+
+table.GeneratedTable thead {  
+background-color: #00fffb;  
+} 
+
+table.configList td, table.configList th {  
+border-width: 1px;
+border-color: #F1F1F1;
+border-style: solid;
+padding: 5px;
+font-size: 1.3rem; 
+}
+
+.texth2 {  
+text-align: center;
+color: #03bcd8; 
+}
+
+#cotePers {
+background-color: #1E6AE1;
+color: white;
+cursor: pointer;
+text-align: center; 
+}
+
+table.configList {
+width: 32%;
+border-collapse: collapse;
+background-color: #ececec;
+border-color: black;
+}
+
+table.configList td {
+border-color: #F9F9F9;
+border-width: 1px;
+padding: 10px;
+padding-left: 15px;
+}
+
+
+.tableTitle {
+  background-color: #F1F1F1;
+  font-size: 1.7rem;
+  font-weight: bold;
+  border-radius: 3px;
+  padding-left: 10px;
+  border-style: solid;
+  border-width: 5px 5px 5px 0px;
+  border-color: white;
+  width: 1%;
+}
+
+.tableTitle tr, td{
+ padding-left: 10px;
+}
+
+
+.descList{
+  font-size: 1.3rem;
+}
+
+.linkDatasheet {
+  font-size: 1.3rem;
+  color: #337ab7;
+}
